@@ -12,7 +12,7 @@ Database: PostgreSQL | Sequelize<br><br>
 
 ## 📌 My projects:
 
-[![Proyecto 1](Proyectos/Festin.JPG)](https://pf-front-end-grupo3.vercel.app/)
+[![Proyecto 1]](https://pf-front-end-grupo3.vercel.app/)
 <img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="200">
 
 [![Proyecto 2](Proyectos/pokemon.JPG)](https://client-pokemon-wheat.vercel.app/)
