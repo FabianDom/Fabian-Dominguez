@@ -1,21 +1,21 @@
 # 💫 Acerca de Mí:
 
-¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br> 💡 💡 Me apasiona desarrollar aplicaciones web que generen impacto, centrándome en crear experiencias digitales memorables. Fusiono mi entusiasmo por la programación con la creatividad para diseñar soluciones que ofrezcan experiencias de usuario intuitivas y envolventes. Siempre en búsqueda de desafíos y oportunidades para ofrecer soluciones innovadoras y efectivas.
+¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br> 💡 Me apasiona desarrollar aplicaciones web que generen impacto, centrándome en crear experiencias digitales memorables. Fusiono mi entusiasmo por la programación con la creatividad para diseñar soluciones que ofrezcan experiencias de usuario intuitivas y envolventes. Siempre en búsqueda de desafíos y oportunidades para ofrecer soluciones innovadoras y efectivas.
 
 
 ## 💻 Tecnologías:
-### Front-End
+### 🎨 Front-End
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Back-End
+### 🧠 Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Database
+### 📊 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%231572B6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
