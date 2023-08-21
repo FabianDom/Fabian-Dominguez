@@ -12,9 +12,10 @@ Database: PostgreSQL | Sequelize<br><br>
 
 ## 📌 My projects:
 
-[<img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="200">](https://pf-front-end-grupo3.vercel.app/)
-[<img src="Proyectos/pokemon.JPG" alt="Proyecto 2" width="200">](https://client-pokemon-wheat.vercel.app/)
-[<img src="Proyectos/Rick.JPG" alt="Proyecto 3" width="200">](https://youtu.be/eHMMRxW_rI4)
+[<img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="250">](https://pf-front-end-grupo3.vercel.app/){:target="_blank"}
+[<img src="Proyectos/pokemon.JPG" alt="Proyecto 2" width="250">](https://client-pokemon-wheat.vercel.app/){:target="_blank"}
+[<img src="Proyectos/Rick.JPG" alt="Proyecto 3" width="250">](https://youtu.be/eHMMRxW_rI4){:target="_blank"}
+
 
 
 ## 🌐 Contacto:
