@@ -1,13 +1,11 @@
 # 💫 Acerca de Mí:
 ¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br>Apasionado por crear experiencias web impactantes, combino programación y creatividad para diseñar soluciones con experiencias de usuario intuitivas. Siempre en busca de desafíos y oportunidades para ofrecer soluciones innovadoras y efectivas.
 
-📧: fabiandmz13@gmail.com
-📂: https://fabiandom-portfolio.vercel.app/
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-dominguez-34840b212/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573133154005)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:fabiandmz13@gmail.com)
 
 
 
