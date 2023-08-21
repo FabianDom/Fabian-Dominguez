@@ -4,18 +4,18 @@
 
 
 ## 💻 Tecnologías:
-### FrontEnd:
+### Front-End
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### BackEnd:
+### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Database:
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%231572B6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
@@ -35,6 +35,6 @@ Aplicación Pokemón (Proyecto integrador Henry)<br><br>
 ## 🌐 Contacto:
 
 📧 Correo: fabiandmz13@gmail.com<br><br>
-📂 Portafolio: https://fabiandom-portfolio.vercel.app/
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-dominguez-34840b212/)
+📂 Portafolio: https://fabiandom-portfolio.vercel.app/<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-dominguez-34840b212/)<br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573133154005)
