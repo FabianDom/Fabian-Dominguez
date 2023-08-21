@@ -1,6 +1,6 @@
 # 💫 Acerca de Mí:
 
-¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><brApasionado desarrollador de aplicaciones web con un enfoque en la creación de experiencias digitales impactantes. Mi entusiasmo por la programación se fusiona con la creatividad para diseñar soluciones que ofrecen experiencias de usuario intuitivas y envolventes. Siempre en la búsqueda de desafíos y oportunidades para brindar soluciones innovadoras y efectivas.
+¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br/>Apasionado desarrollador de aplicaciones web con un enfoque en la creación de experiencias digitales impactantes. Mi entusiasmo por la programación se fusiona con la creatividad para diseñar soluciones que ofrecen experiencias de usuario intuitivas y envolventes. Siempre en la búsqueda de desafíos y oportunidades para brindar soluciones innovadoras y efectivas.
 
 # 💻 Tecnolgias:
 
@@ -12,9 +12,9 @@ Database: PostgreSQL | Sequelize<br><br>
 
 ## 📌 My projects:
 
-[![Proyecto 1](Proyectos/Festin.JPG)](https://pf-front-end-grupo3.vercel.app/)
-[![Proyecto 2](Proyectos/pokemon.JPG)](https://client-pokemon-wheat.vercel.app/)
-[![Proyecto 2](Proyectos/Rick.JPG)](https://youtu.be/eHMMRxW_rI4)
+[![Proyecto 1](Proyectos/Festin.JPG | width=200)](https://pf-front-end-grupo3.vercel.app/)
+[![Proyecto 2](Proyectos/pokemon.JPG | width=200)](https://client-pokemon-wheat.vercel.app/)
+[![Proyecto 2](Proyectos/Rick.JPG | width=200)](https://youtu.be/eHMMRxW_rI4)
 
 ## 🌐 Contacto:
 
