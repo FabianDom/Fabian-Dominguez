@@ -1,6 +1,6 @@
 # 💫 Acerca de Mí:
 
-¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br> 💡 Apasionado desarrollador de aplicaciones web con un enfoque en la creación de experiencias digitales impactantes. Mi entusiasmo por la programación se fusiona con la creatividad para diseñar soluciones que ofrecen experiencias de usuario intuitivas y envolventes. Siempre en la búsqueda de desafíos y oportunidades para brindar soluciones innovadoras y efectivas.
+¡Hola! 👋 Soy un Desarrollador Full-Stack graduado de Henry, con formación en Ingeniería Industrial y Tecnología de las Telecomunicaciones. Mi trayectoria demuestra mi capacidad para adaptarme y mejorar constantemente en el ámbito tecnológico.<br><br> 💡 💡 Me apasiona desarrollar aplicaciones web que generen impacto, centrándome en crear experiencias digitales memorables. Fusiono mi entusiasmo por la programación con la creatividad para diseñar soluciones que ofrezcan experiencias de usuario intuitivas y envolventes. Siempre en búsqueda de desafíos y oportunidades para ofrecer soluciones innovadoras y efectivas.
 
 
 ## 💻 Tecnologías:
