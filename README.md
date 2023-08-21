@@ -21,12 +21,12 @@
 
 
 
-## 📌 My projects:
-Aplicación el Festín online (Proyecto final Henry)<br><br>
+## 📌 Proyectos:
+👉🏼 Aplicación el Festín online (Proyecto final Henry)<br><br>
 <a href="https://pf-front-end-grupo3.vercel.app/" target="_blank"><img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="350"></a> <br><br>
-Aplicación Pokemón (Proyecto individual Henry)<br><br>
+👉🏼 Aplicación Pokemón (Proyecto individual Henry)<br><br>
 <a href="https://client-pokemon-wheat.vercel.app/" target="_blank"><img src="Proyectos/pokemon.JPG" alt="Proyecto 2" width="350"></a><br><br>
-Aplicación Pokemón (Proyecto integrador Henry)<br><br>
+👉🏼 Aplicación Pokemón (Proyecto integrador Henry)<br><br>
 <a href="https://youtu.be/eHMMRxW_rI4" target="_blank"><img src="Proyectos/Rick.JPG" alt="Proyecto 3" width="350"></a>
 
 
