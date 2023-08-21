@@ -11,11 +11,11 @@ Database: PostgreSQL | Sequelize<br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📌 My projects:
-Aplicación el Festín online (Proyecto final Henry)
+Aplicación el Festín online (Proyecto final Henry)<br><br>
 <a href="https://pf-front-end-grupo3.vercel.app/" target="_blank"><img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="200"></a> <br><br>
-Aplicación Pokemón (Proyecto individual Henry)
+Aplicación Pokemón (Proyecto individual Henry)<br><br>
 <a href="https://client-pokemon-wheat.vercel.app/" target="_blank"><img src="Proyectos/pokemon.JPG" alt="Proyecto 2" width="200"></a><br><br>
-Aplicación Pokemón (Proyecto integrador Henry)
+Aplicación Pokemón (Proyecto integrador Henry)<br><br>
 <a href="https://youtu.be/eHMMRxW_rI4" target="_blank"><img src="Proyectos/Rick.JPG" alt="Proyecto 3" width="200"></a>
 
 
