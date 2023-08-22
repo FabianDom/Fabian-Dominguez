@@ -37,5 +37,5 @@
 
 📧 Correo: fabiandmz13@gmail.com<br><br>
 📂 Portafolio: https://fabiandom-portfolio.vercel.app/<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-dom/)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-dom/)<br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573133154005)
